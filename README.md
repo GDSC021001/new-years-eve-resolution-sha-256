@@ -1,5 +1,8 @@
 # new-years-eve-resolution-sha-256
 
+Step1: Click on the Readme.me file
+Step2: Click on the Raw and start sloving.
+
 Find output of code and concatenate to “lbgdsc-___”
 
 def lastRemaining(n):
